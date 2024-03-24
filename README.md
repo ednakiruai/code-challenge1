@@ -6,7 +6,7 @@
 #### By *Edna Kiruai*
 
 ## Description
-It's a webpage that shows different types of triangles and what they look like.
+It's a webpage that shows solutions to different Toy Problems.
 
 ## Installation
 You use git clone to be able to download the documents in the GitHub
@@ -16,7 +16,7 @@ Git
 
 ### Installation instruction
 ```
-Git clone https://github.com/hamida-mstafa/Triangle-tracker.git
+Git clone https://github.com/ednakiruai/code-challenge1
 
 ```
 
@@ -30,7 +30,7 @@ Github
 Javascript
 
 ## Support and contact details
-github.com/hamida-mstafa
+github.com/ednakiruai7
 
 ### License
 The content of this site is licensed under the MIT license
